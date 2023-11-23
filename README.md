@@ -1,1 +1,1 @@
-# jenkins-maven-pipeline-sample
+# jenkins-maven-pipeline-savisample
